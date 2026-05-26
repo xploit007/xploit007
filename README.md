@@ -1,5 +1,5 @@
 # Hey, I'm Arjun 👋
-Full-Stack Developer & ML Software Engineer based in San Jose, CA. I like building things from scratch, breaking them, and making them better.
+Full-Stack Developer & ML Software Engineer based in San Francisco, CA. I like building things from scratch, breaking them, and making them better.
 
 Most recently, I led R&D on a network intrusion detection system at a healthcare cybersecurity startup, where I built ensemble ML pipelines (XGBoost, Random Forest, LightGBM, Isolation Forest, Autoencoders) processing millions of network flows daily. Before that, I got my Master's in Business Analytics & AI from UT Dallas.
 
