@@ -1,8 +1,6 @@
 # Hey, I'm Arjun 👋
 Full-Stack Developer & ML Software Engineer based in San Francisco, CA. I like building things from scratch, breaking them, and making them better.
 
-Most recently, I led R&D on a network intrusion detection system at a healthcare cybersecurity startup, where I built ensemble ML pipelines (XGBoost, Random Forest, LightGBM, Isolation Forest, Autoencoders) processing millions of network flows daily. Before that, I got my Master's in Business Analytics & AI from UT Dallas.
-
 I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-healing cloud deployment agent, won **2nd place at the Open Agents Hackathon** by Overclock Labs. I also built **Squiker** ([squiker.com](https://squiker.com)), a full-stack ad-tech platform, solo from the ground up.
 
 ---
