@@ -17,6 +17,14 @@ I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-heal
 
 ---
 
+### Live projects
+
+✈️ **[Watch Flights](https://watchflights.xyz)** - Live 3D replica of the San Francisco, Oakland and San Jose airports. Every aircraft from public ADS-B receivers, a few seconds behind real time, landing, taxiing and parking at its real gate.
+
+🚆 **[Watch Trains](https://watchtrains.xyz)** - Every BART and Caltrain train moving on the real track across the Bay Area, live in 3D, on the same map and dashboard.
+
+---
+
 ### Hackathons
 
 🥈 **[AkashGuard](https://github.com/xploit007/AkashGuard)** - Autonomous self-healing cloud deployment agent using Llama 3.3 70B. Monitors, diagnoses, and redeploys failed services on Akash Network. *2nd place, Open Agents Hackathon - Feb 2026*
