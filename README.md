@@ -1,5 +1,5 @@
 # Hey, I'm Arjun 👋
-Full-Stack Developer & ML Software Engineer based in San Francisco, CA. I like building things from scratch, breaking them, and making them better.
+Founding Engineer at Heavi AI. Full-Stack Developer & ML Software Engineer based in San Francisco, CA. I like building things from scratch, breaking them, and making them better.
 
 I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-healing cloud deployment agent, won **2nd place at the Open Agents Hackathon** by Overclock Labs. I also built **Squiker** ([squiker.com](https://squiker.com)), a full-stack ad-tech platform, solo from the ground up.
 
@@ -33,7 +33,7 @@ I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-heal
 
 📸 **[Specto](https://github.com/xploit007/Specto)** - Snapchat Spectacles lens that auto-captures sports highlights with a rolling 30s buffer and AI-powered moment analysis. *Gemini 3 SuperHack - Jan 2026*
 
-🎙️ **[Cactus Voice](https://github.com/xploit007/Cactus-Voice)** - Fully on-device voice-to-action app using Whisper + FunctionGemma for sub-millisecond intent routing. *Cactus x Google DeepMind Hackathon - Feb 2026*
+🎙️ **[Cactus Voice](https://github.com/xploit007/CactusWebApp)** - Fully on-device voice-to-action app using Whisper + FunctionGemma for sub-millisecond intent routing. *Cactus x Google DeepMind Hackathon - Feb 2026*
 
 ⚖️ **[LegalStrategyCouncil](https://github.com/xploit007/LegalStrategyCouncil)** - Multi-agent legal strategy system. Multi-agent collaboration using MongoDB Atlas as the coordination backbone. *MongoDB Hackathon*
 
@@ -41,4 +41,4 @@ I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-heal
 
 ### Let's connect
 
-🌐 [Portfolio](https://malnag.com) · 💼 [LinkedIn](https://linkedin.com/in/mallikarjungn) · 📧 [Email](mailto:gudumagatte.mallikarjun@gmail.com)
+🌐 [Portfolio](https://malnag.com) · 💼 [LinkedIn](https://linkedin.com/in/mallikarjungn) · 📧 [Email](mailto:mallikarjungn007@gmail.com)
