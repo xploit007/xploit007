@@ -1,7 +1,7 @@
 # Hey, I'm Arjun 👋
-Founding Engineer at Heavi AI. Full-Stack Developer & ML Software Engineer based in San Francisco, CA. I like building things from scratch, breaking them, and making them better.
+Founding Engineer at Heavi AI. Full-Stack AI Engineer based in San Francisco, CA. I like building things from scratch, breaking them, and making them better.
 
-I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-healing cloud deployment agent, won **2nd place at the Open Agents Hackathon** by Overclock Labs. I also built **Squiker** ([squiker.com](https://squiker.com)), a full-stack ad-tech platform, solo from the ground up.
+I'm a hackathon regular and I ship fast. **AkashGuard**, my autonomous self-healing cloud deployment agent, won **2nd place at the Open Agents Hackathon** by Overclock Labs. I also built **Squiker** ([squiker.com](https://squiker.com)), a side project from a YC hackathon: a local growth department for small shops.
 
 ---
 
